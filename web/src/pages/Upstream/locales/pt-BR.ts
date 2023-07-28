@@ -73,8 +73,8 @@ export default {
 
   'page.upstream.create': 'Criar upstream',
   'page.upstream.configure': 'Configurar upstream',
-  'page.upstream.create.upstream.successfully': 'Criar upstream com sucesso',
-  'page.upstream.edit.upstream.successfully': 'Configurar upstream com sucesso',
+  'page.upstream.create.upstream.successfully': 'Upstream criado com sucesso',
+  'page.upstream.edit.upstream.successfully': 'Upstream configurado com sucesso',
   'page.upstream.create.basic.info': 'Informação básica',
   'page.upstream.create.preview': 'Visualização',
 
@@ -88,7 +88,7 @@ export default {
   'page.upstream.list.confirm.delete': 'Você tem certeza que quer deletar?',
   'page.upstream.list.confirm': 'Confirme',
   'page.upstream.list.cancel': 'Cancelar',
-  'page.upstream.list.delete.successfully': 'Excluir upstream com sucesso',
+  'page.upstream.list.delete.successfully': 'Upstream removido com sucesso',
   'page.upstream.list.delete': 'Excluir',
   'page.upstream.list': 'Lista upstream',
   'page.upstream.list.input': 'Por favor, insira',

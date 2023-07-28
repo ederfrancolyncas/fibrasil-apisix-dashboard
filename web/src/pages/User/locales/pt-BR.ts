@@ -24,7 +24,7 @@ export default {
   'component.user.loginMethodPassword.inputPassword': 'Insira a senha',
   'component.user.loginMethodPassword.incorrectPassword': 'Usuário ou senha incorretos',
   'component.user.loginMethodPassword.fieldInvalid': 'Verifique o nome de usuário e a senha',
-  'component.user.loginMethodPassword.success': 'Sucesso de login',
+  'component.user.loginMethodPassword.success': 'Login com sucesso',
   'component.user.loginMethodPassword.changeDefaultAccount': 'Como atualizar o nome de usuário/senha?',
   'component.user.loginMethodPassword.modificationMethod':
     'Modifique o campo de usuários no arquivo /api/conf/conf.yaml',

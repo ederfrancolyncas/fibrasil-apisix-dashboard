@@ -20,7 +20,7 @@ import React, { useState } from 'react';
 import { history, Link, useIntl } from 'umi';
 
 import logo from '@/assets/logo-branca.jpg';
-import Footer from '@/components/Footer';
+// import Footer from '@/components/Footer';
 import { getUrlQuery } from '@/helpers';
 import LoginMethodPassword from '@/pages/User/components/LoginMethodPassword';
 import type { UserModule } from '@/pages/User/typing';
@@ -122,7 +122,7 @@ const Page: React.FC = () => {
           </Button>
         </div>
       </div>
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 };

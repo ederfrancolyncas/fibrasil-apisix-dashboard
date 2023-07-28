@@ -105,7 +105,7 @@ export const errorHandler = (error: { response: Response; data: any }): Promise<
     // TODO: improve code message mapper
     const errorText = error.data?.message || codeMessage[response.status];
     notification.error({
-      message: `Request Error Code: ${error.data.code}`,
+      message: `Erro na requisição: ${error.data.code}`,
       description: errorText,
     });
   } else if (!response) {

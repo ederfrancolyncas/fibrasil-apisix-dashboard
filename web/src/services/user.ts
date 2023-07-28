@@ -14,11 +14,11 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-import logo from '@/assets/logo-branca.jpg';
+import logo from '@/assets/profile.png';
 
 export async function queryCurrent(): Promise<API.CurrentUser> {
   return Promise.resolve({
-    name: 'APISIX User',
+    name: 'Usuário',
     avatar: logo,
     userid: '00000001',
     access: 'admin',
